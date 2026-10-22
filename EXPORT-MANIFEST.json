@@ -1,0 +1,41 @@
+{
+  "approved_archive_sha256": "82f0ad59a64fdfeba519b4a631659567d5d437fff39ce20eebbfcf2d0c76e427",
+  "files": {
+    ".gitignore": "434fa8c1df64e7f0e8aa0c015763ff6b903df79922430ceeb284ac6b6a061b0e",
+    "LICENSE": "23765be3c2e6af90199777ebcd38a3a71e6aaa374de2950ce96c18969a6bcce6",
+    "README.md": "5f717951bea9f4fd988643dbbc78a4898ba6017a91745af224b6537822c1f523",
+    "subscription_dispatcher/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "subscription_dispatcher/auth/.gitignore": "4d56952b0fb13bf8f9b6c13a6d4c34a075bac3af447636a1df4335d7576e2f97",
+    "subscription_dispatcher/auth/credential_writer.py": "56b954687c1d024b75073a060e76f634e7ac13c4b78cc2bee9a91e349d6b24d5",
+    "subscription_dispatcher/auth/login-cli.mjs": "a66e8155ceecfb4485b61f63418951c79e183f960bea32c9983e2fe0da955b71",
+    "subscription_dispatcher/auth/login.mjs": "00c542a99ff8fb826dfd1f26888c6dcd179a3428c5cae142e1dde5c7dc4dd340",
+    "subscription_dispatcher/auth/package-lock.json": "155d87ea1fb45bd4f276ef5bc3576d050d4ca9a95dd63d655c71abb1e8dd175e",
+    "subscription_dispatcher/auth/package.json": "5c4edac9be93573898894bad9df18278abb6a31c31a9919be1679d781aa49106",
+    "subscription_dispatcher/auth/siwc.mjs": "ad4c0affe820f79f252800dc477b887c1ac680a8216c645a5b12b6e1aaee8417",
+    "subscription_dispatcher/auth/test/identity.test.mjs": "94889f6ae87e93a4d742ad01d8dae327ac261532f4ee7676c5df954937d3fd82",
+    "subscription_dispatcher/auth/test/login-integration.test.mjs": "bc0268095dcdfc578281a80ddf206ed72fad9d33fdada698c2effa3e18c09977",
+    "subscription_dispatcher/credentials.py": "20faf99ce40835bcd9b894b8c8cb9bf4ae354848e2f6a04ca48a1d9bed3957d7",
+    "subscription_dispatcher/jobs.py": "fd6aac8f892470579b22928a744c9139bd5441c531a59bf1759fc24e77c7c76e",
+    "subscription_dispatcher/plan_transport.py": "a3093c20d84eb732ae8f57889b1d75aa2ef8b1aba2adc888b8cdbe7c81bb51c7",
+    "subscription_dispatcher/policy.py": "dbf2e47e465da67b235af494323933d2364f77fbbb056db460447c3bece0793b",
+    "subscription_dispatcher/resources.py": "9d313b6a4348791119251daf470c0bbef7c85deefab5a7c88e1fea3fdeb6a7bf",
+    "subscription_dispatcher/runner.py": "dd5ca145fc69214fd87e56fb5d02eff97c4121cada182fbdfc839945158bdecb",
+    "tests/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tests/test_subscription_auth.mjs": "cf09676a84fdb2eaf59802cc51ca03b9f7034175a44c7faa3c60525b83c40300",
+    "tests/test_subscription_credentials.py": "2f305cbebcd8aed312839a2625bbb713a8ef2255b47a4955c6786ac9da50a782",
+    "tests/test_subscription_dispatcher_policy.py": "fa0c4426e1bf85eb5070af00bf08022099785015a770c5dde76e2e4c73ce9a4b",
+    "tests/test_subscription_jobs.py": "4a335231cd46e8c5b19ab538f009741cec64cc11e1fa08004edc0a53f0858377",
+    "tests/test_subscription_login.mjs": "ac8975d300c62004d3ee54e87ade9edc6f86407dfec1f83345fd06e744fa84f1",
+    "tests/test_subscription_login_cli.mjs": "71ffa141c3b175dafb9255ead693dda63514fc975e52cf24ecdabd695659689c",
+    "tests/test_subscription_plan_transport.py": "f701b5914afa5d87569768f825cc188b446eec1d6e0528acc818b2b671e1bbd3",
+    "tests/test_subscription_resources.py": "1d1e092e7b63cd499666b8a4d077bd1115e1e155df599600ebefa7602d6f486f",
+    "tests/test_subscription_runner.py": "118a80357fe624aa3e23568d90dce721888d00b083c5aec5759eba4ebb195558"
+  },
+  "publication_changes": [
+    "Apply approved MIT licence as LICENSE",
+    "Update README publication status",
+    "Update this manifest for publication"
+  ],
+  "source_commit": "a8dc9706525ffded35f26839f370f055ad4b269d",
+  "status": "owner-approved-public-pre-release"
+}
